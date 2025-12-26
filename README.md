@@ -1,4 +1,4 @@
-# Project based HTML and CSS Workshop
+# Project based HTML and CSS Workshop ...
 
 In this workshop, we will be building a simple complete webpage for a Donut-Shop as following:
 [donut-shop](https://hackmd.io/_uploads/BkBSUyzFR.png)
